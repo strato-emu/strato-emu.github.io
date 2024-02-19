@@ -1,0 +1,28 @@
+## HOME ##
+- id: "home.home"
+  translation: "Home"
+  
+- id: "home.recent_posts"
+  translation: "Recent Posts"
+
+- id: "home.see_all_posts"
+  translation: "See all posts"
+
+## SINGLE ##
+- id: "single.table_of_contents"
+  translation: "Table of Contents"
+
+## FOOTER ##
+- id: "footer.go_to_top"
+  translation: "Go to top"
+
+- id: "footer.disclaimer"
+  translation: "Strato Emulator"
+
+## ERRORS ##
+- id: "errors.404"
+  translation: "404 - Page not found"
+
+- id: "errors.404_description"
+  translation: "The page you are looking for does not exist."
+  
