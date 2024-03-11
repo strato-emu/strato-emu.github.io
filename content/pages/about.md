@@ -12,7 +12,7 @@ Strato was designed to provide an accurate, performant, and user-friendly emulat
 Strato was started after [Skyline](https://github.com/skyline-emu), a previous Nintendo Switch™ emulator, was discontinued in May 2023. The Strato Project was created to continue the work of Skyline, fixing its issues and improving its performance and compatibility.
 
 ## Who develops Strato?
-The Strato Project is currently developed by [Lynx](https://github.com/lynxnb) and [TheASV](https://github.com/TheASVigilante). They are both full-time students and work on the emulator in their free time.  
+The Strato Project is currently developed by [TheASV](https://github.com/TheASVigilante). He is full-time student and works on the emulator during his free time.  
 The Strato team also has a few contributors who help with the development of the emulator.
 
 ## Where does the name come from?
